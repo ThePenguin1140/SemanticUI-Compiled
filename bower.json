@@ -1,0 +1,17 @@
+{
+  "name": "SemanticUI-Compiled",
+  "version": "2.0.8",
+  "homepage": "https://github.com/ThePenguin1140/SemanticUI-Compiled",
+  "authors": [
+    "Jason Wuertz [Jason Würtz] <jwuertz@upei.ca>"
+  ],
+  "description": "Compiled version of Semantic UI mirroring the official semantic repo.",
+  "keywords": [
+    "semantic",
+    "ui",
+    "css",
+    "framework",
+    "compiled"
+  ],
+  "license": "MIT"
+}
